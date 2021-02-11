@@ -17,6 +17,10 @@ I've given you Admin permission to this project. This means that you can setup p
 ## Your team's task
 1. Create a development branch
 2. [Protect the main branch](https://docs.github.com/en/github/administering-a-repository/about-protected-branches#require-pull-request-reviews-before-merging)
+  - Put main as pattern name
+  - [] Set equire pull request reviews before merging
+  - [] Set Include Adminstrator 
+  
 3. Identify each of the issues in [`QuickMaths.swift`](Sources/WelcomeToGitHub/QuickMaths.swift)
 4. Assign each team member an issue to fix.
 5. Each team member will open a unique pull request to the `development` branch resolving the specified Rally issue. 
