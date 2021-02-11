@@ -16,7 +16,7 @@ struct QuickMaths {
 	///   - rhs: Right hand side of the equation
 	/// - Returns: sum of lhs and rhs as an Int.
 	func add(_ lhs:Int, _ rhs:Int ) -> Int {
-		return 42
+		return lhs + rhs
 	}
 	
 	/// Subtracts lhs (left hand side) to rhs (right hand side)
